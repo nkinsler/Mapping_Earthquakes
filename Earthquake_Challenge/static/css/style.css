@@ -9,8 +9,8 @@ body,
 .legend {
   padding: 10px;
   line-height: 18px;
-  color: black;
-  background-color: white;
+  color: #555;
+  background-color: #fff;
   border-radius: 5px;
 }
 .legend i {
